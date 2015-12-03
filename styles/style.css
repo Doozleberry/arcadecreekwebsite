@@ -22,11 +22,10 @@ ul { list-style:none;}
 
 /*==================list====================*/
 ul{margin:0 0 12px 0; padding:0px; list-style:none}
-ul li { line-height:2.18em}
-ul li a{text-decoration:none; color:#fff; background:url(images/marker_list.gif) no-repeat 0 0; padding-left:23px; font-weight:normal !important}
+ul li { line-height:2.5em}
+ul li a{font-size: 14px; text-decoration:none; color:#fff; background:url(images/marker_list.gif) no-repeat 0 0; padding-left:23px; font-weight:normal !important}
 ul li a:hover{ text-decoration:none; color:#6ab551}
 /*==========================================*/
-
 li.grants{
 	line-height:18px;
 	font-family:Verdana, Geneva, sans-serif;
@@ -39,13 +38,13 @@ li.grants a{
 }
 
 ol{
-	margin-left:20px;	
-	
+	margin-left:20px;
+
 }
 
 ol li{
 	letter-spacing:1px;
-	
+
 }
 
 a {text-decoration:none; color:#56c0ff; font-weight:normal}
@@ -111,7 +110,7 @@ p.big{
 	width: 800px;
 	height: 900px;
 	margin: 0 0 20px 0;
-} 
+}
 
 /*content*/
 .title {margin-bottom:28px}
